@@ -1,0 +1,9 @@
+# *
+User-agent: *
+Allow: /
+
+# Host
+Host: https://pletis-blog.vercel.app/
+
+# Sitemaps
+Sitemap: https://pletis-blog.vercel.app/sitemap.xml
